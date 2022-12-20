@@ -6,4 +6,4 @@ Welcome to the Zarr community, an open community with an interest in developing 
 
 Please feel free to use this GitHub repository as a tool for sharing, connecting, coordinating, meeting, planning or any other community activity. 
 
-Join [our community meetings]( https://zarr.dev/#community-meetings ).
+Join [our community meetings](https://zarr.dev/community-calls/).
